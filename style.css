@@ -1,8 +1,11 @@
 img {
     width: 200px;
 }
-body {
+title {
     text-align: center;
+}
+body {
+    text-align: left;
     font-family: 'Playfair';
     background: lightblue;
     color: palevioletred;
